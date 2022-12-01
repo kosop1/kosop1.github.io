@@ -22,9 +22,9 @@ sass:
   style:        compressed
 
 # Gems
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+#plugins:
+#  - jekyll-feed
+#  - jekyll-paginate
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
