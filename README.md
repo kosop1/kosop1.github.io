@@ -1,8 +1,8 @@
-# Rain
+- kosop
 
 Rain is a simple and clean Jekyll theme with focus on content. It's a fork of [Tale theme](https://github.com/chesterhow/tale) with additional customizations.
 
-![](https://github.com/inelaah/rain/blob/master/images/screenshot.png)
+#(https://github.com/inelaah/rain/blob/master/images/screenshot.png)
 
 ## Features
 - Compatible with GitHub Pages
