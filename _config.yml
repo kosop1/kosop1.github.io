@@ -12,7 +12,9 @@ author:
 # Build settings
 markdown:       kramdown
 
-color: 
+color:
+  primary-dark: '#00ff00'
+  links: '#ffffff'
 
 # Assets
 sass:
