@@ -1,16 +1,18 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          kosop
+# description:    ""
+url: "kosop1.github.io"
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name: "kosop"
+  email: "kosop@gmail.com"
+  url: "kosop1.github.io"
 
 # Build settings
 markdown:       kramdown
+
+color: 
 
 # Assets
 sass:
@@ -33,8 +35,8 @@ related_posts_section:
   min_common_tags:  2
 
 # Links to social media
-social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+#social:
+  #email: inelaah@gmail.com
+  #github: https://github.com/inelaah
+  #twitter: https://twitter.com
+ #linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
