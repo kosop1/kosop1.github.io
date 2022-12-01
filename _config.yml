@@ -16,6 +16,8 @@ color:
   primary-dark: '#00ff00'
   links: '#ffffff'
 
+logo: ![Teespring](https://img.shields.io/badge/Teespring-#ED2761.svg?&style=for-the-badge&logo=Teespring&logoColor=white)
+
 # Assets
 sass:
   sass_dir:     _sass
